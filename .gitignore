@@ -1,0 +1,13 @@
+# OS/editor files
+*.swp
+.DS_Store
+.idea
+nohup.out
+*~
+# NetBeans generated files
+build/
+dist/
+store/
+
+Applications/*/nbproject/private/
+ClassLibraries/*/nbproject/private/
